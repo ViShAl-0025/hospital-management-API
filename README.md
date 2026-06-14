@@ -1,4 +1,4 @@
-# Hospital Management API
+[# Hospital Management API
 
 A RESTful API built using Node.js, Express.js, MongoDB Atlas and Mongoose for managing patient records.
 
@@ -98,4 +98,4 @@ node server.js
 Vishal Singh
 
 GitHub:
-https://github.com/ViShAl-0025
+https://github.com/ViShAl-0025](https://github.com/ViShAl-0025/hospital-management-API)
