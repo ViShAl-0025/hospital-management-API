@@ -98,4 +98,4 @@ node server.js
 Vishal Singh
 
 GitHub:
-https://github.com/ViShAl-0025](https://github.com/ViShAl-0025/hospital-management-API)
+https://github.com/ViShAl-0025
