@@ -1,4 +1,4 @@
-[# Hospital Management API
+# Hospital Management API
 
 A RESTful API built using Node.js, Express.js, MongoDB Atlas and Mongoose for managing patient records.
 
